@@ -54,7 +54,16 @@
 // let myname = "manisha";
 // console.log(myname);
 // declare funnction as a variable
- const myfunction = function(){
-console.log("hello world");
- }
-
+//  const myfunction = function(){
+// console.log("hello world");
+//  }
+// type of undefinied undefined
+// null  Object
+// Number number 
+// Boolean Boolean
+// String string
+// non primitive data type ska typeof object hi ata h function ka function hi hota h bs
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// in javascript two types of memory stack/Heap
+// stack is used for primitive data types  isme jo bhi variabl declare karege uski copy milegiusme changes kareg 
+// heap is useed for non primitive data types isme refrence original milega usme copy hogi
