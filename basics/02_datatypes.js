@@ -34,4 +34,27 @@
 //    6 BigInt
 //    7 symbol uniqueness
 // non primitive data types are those type there refernce is dirctly locate or access you can change in direct value
-// reference type
+// reference type 
+// 1 Array, 2 object 3 functions
+// javascript web events or objects of javascript
+// javascript is dynamicalay language because we define variable without declare data type the type of variable is check during running time not compilation 
+// array declare 
+// let myarr = ["manisha","ashwani","simran"];
+// console.log(myarr);
+// // object declare object is declare in key and value
+// let mybag={
+//     name:"pookie",
+//     class:10,
+//     subject:"hindi"
+
+// };
+// console.log(mybag);
+// // hosting in javascript is if we use variable first before declaration
+//  console.log(myname);
+// let myname = "manisha";
+// console.log(myname);
+// declare funnction as a variable
+ const myfunction = function(){
+console.log("hello world");
+ }
+
