@@ -31,3 +31,17 @@
 
 // check if string is palindrome 
 // palindrome means if number string is reverse is equal
+
+
+// let varia = "hoh"
+// function my(str){
+//     return varia.split('').reverse('').join('')
+// }
+// console.log(varia);
+
+let varia ="hoh"
+if(varia == reverse){
+    console.log("this is palindrome")
+}else{
+    console.log("this is not a palindrome")
+}
